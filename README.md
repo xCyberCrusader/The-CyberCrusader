@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 📧 Feel free to reach out to me via [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OffSecEnforcer) for any inquiries, collaborations, or opportunities.
 
-## Skills
+## 💪 Skills
 
 💻 Some of the key skills in my arsenal include:
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - Network Security
 - Linux
 
-## Certifications
+## 🏅 Certifications
 
 🏅 I hold certifications in:
 
@@ -47,7 +47,21 @@ Here are some ideas to get you started:
 - Pursing - CRTP
 - Pursing - Offensive Security Certified Professional (OSCP)
 
-## Contributions
+## 📒 Books
+
+ Whishlist                                 | Done Reading                                                         |
+|------------------------------------------|----------------------------------------------------------------------|
+| TheWeb Application Hackers Handbook      | The Pentester BluePrint Starting a Career as an Ethical Hacker       |
+| Web Security testing Guide - v4.2        | Getting Started Becoming a Master Hacker - (Occupytheweb)            |
+| Real-World Bug Hunting                   | Linux Basics for Hackers - (Occupytheweb)                            |
+| Black Hat GraphQL                        | Network Basics for Hacker - (Occupytheweb)                          |
+| Black Hat Python                         | Bug Bounty Bootcamp The Guide to Finding and Reporting Web Vulnerabilities - (Vickie Li) |
+| Deep Dive Exploring the Real world Value | Hacking APIs Breaking Web Application Programming Interfaces - (Corey J. Ball) |
+ of Open Source Intelligence               
+| How to Hack Like a Pornstar/Ghost/Legend |                                                                      
+| Gray Hat Hacking The Ethical Hackers Handbook, Sixth Edition |    
+
+## 🤝 Contributions
 
 🌟 I actively contribute to the cybersecurity community through:
 
