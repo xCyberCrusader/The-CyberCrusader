@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to The-CyberCrusader's Profile! 👋
+# Welcome to oneZer0X Profile! 👋
 
-![CyberCrusader](https://i.postimg.cc/pXFB0c68/pwl9mwg0qu5vdagwstde.gif)
+![oneZer0X](https://i.postimg.cc/pXFB0c68/pwl9mwg0qu5vdagwstde.gif)
 
 ## About Me 💫
 
